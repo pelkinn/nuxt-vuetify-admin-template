@@ -1,0 +1,6 @@
+$fontGrotesk: 'Ubuntu', sans-serif;
+
+@use 'vuetify/settings' with (
+  $color-pack: true,
+  $font-size-root: 1rem
+);
